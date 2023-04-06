@@ -25,14 +25,6 @@ Here are some ideas to get you started:
 ### 👋 Hi, I'm Yong 👋 
 <br><br>
 ---
-
-<br><br>
-<strong>📫 Email 📫</strong>
-<br><br>
-ssyong917@naver.com<br>
-seungyong917@gmail.com
-            
-
 <br><br>
 <strong>🎓 Major 🎓</strong>
 <br><br>
@@ -67,6 +59,10 @@ BS in Computer Science and Engineering
 
 ![Yong0917's github stats](https://github-readme-stats.vercel.app/api?username=Yong0917&show_icons=true)
 
-
+<br><br>
+<strong>📫 Email 📫</strong>
+<br><br>
+ssyong917@naver.com<br>
+seungyong917@gmail.com
 
 </div>
