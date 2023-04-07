@@ -34,8 +34,9 @@ BS in Computer Science and Engineering
 <strong>✨ Used as the main ✨</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-9932CC?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
@@ -43,9 +44,13 @@ BS in Computer Science and Engineering
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/MYSQL-ACACAC?style=flat&logo=MYSQL Server&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 
 <br><br>
