@@ -58,17 +58,18 @@ BS in Computer Science and Engineering
 <br><br>
 https://velog.io/@ssyong917
             
-<br><br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYong0917&count_bg=%23E9B0E8&title_bg=%23727171&icon=smugmug.svg&icon_color=%23E7E7E7&title=today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin0827&layout=compact)](https://github.com/Yujin0827/github-readme-stats) -->
-
-![Yong0917's github stats](https://github-readme-stats.vercel.app/api?username=Yong0917&show_icons=true)
 
 <br><br>
 <strong>📫 Email 📫</strong>
 <br><br>
 ssyong917@naver.com<br>
 seungyong917@gmail.com
+
+<br><br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYong0917&count_bg=%23E9B0E8&title_bg=%23727171&icon=smugmug.svg&icon_color=%23E7E7E7&title=today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yujin0827&layout=compact)](https://github.com/Yujin0827/github-readme-stats) -->
+
+![Yong0917's github stats](https://github-readme-stats.vercel.app/api?username=Yong0917&show_icons=true)
 
 </div>
