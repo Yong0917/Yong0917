@@ -44,6 +44,7 @@ BS in Computer Science and Engineering
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-F80000?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
