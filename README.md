@@ -36,7 +36,9 @@ BS in Computer Science and Engineering
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white"/>
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
@@ -44,6 +46,7 @@ BS in Computer Science and Engineering
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-F80000?style=flat-square&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
@@ -51,18 +54,23 @@ BS in Computer Science and Engineering
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 
 <br><br>
-<strong>✍️ Blog ✍️ </strong>
+<strong>💼 Portfolio 💼 </strong>
+<br>
+https://ssyong.notion.site/243f71b034088196b25cc482a7a41696
+
 <br><br>
+<strong>✍️ Blog ✍️ </strong>
+<br>
 https://velog.io/@ssyong917
-            
 
 <br><br>
 <strong>📫 Email 📫</strong>
-<br><br>
+<br>
 ssyong917@naver.com<br>
 seungyong917@gmail.com
 
